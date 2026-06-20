@@ -30,10 +30,7 @@
   <img src="https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Tools-Git-black?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Web3-Ethereum-purple?style=flat&logo=ethereum"/>
-  <img src="https://img.shields.io/badge/Network-Wireshark-blue?style=flat&logo=wireshark"/>
-  <img src="https://img.shields.io/badge/Tools-Packet%20Tracer-lightgrey?style=flat&logo=cisco"/>
-  <img src="https://img.shields.io/badge/Wallet-Phantom-9945FF?style=flat&logo=solana"/>
+  <img src="https://img.shields.io/badge/Web3"/>
 </p>
 
 ---
