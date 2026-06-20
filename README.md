@@ -14,8 +14,8 @@
 
 <ul>
   <li>🌱 Currently leveling up in <strong>backend development, cybersecurity, and Web3</strong></li>
-  <li>🎓 ALX Software Engineering (Professional Foundations) · Tech4Africans Cybersecurity Cohort 6</li>
-  <li>⛓️ Run a DAC blockchain testnet node and actively trade on Polymarket</li>
+  <li>🎓 ALX Software Engineering (Professional Foundations, backend development)</li>
+  <li>⛓️ Qualitative Analyst on Polymarket</li>
   <li>🔨 I ship things — check my projects below</li>
   <li>📫 Reach me: <a href="mailto:danielabiamuwa@gmail.com">danielabiamuwa@gmail.com</a></li>
 </ul>
